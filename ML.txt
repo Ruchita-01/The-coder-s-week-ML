@@ -1,0 +1,5 @@
+ML is quite diffcult to understand. There are three terms AI,ML and DL.
+Artificial Intelligence is the overaching discipline that covers anything related to maiking smart machine.
+ML is the subset of AL.
+Machine learning (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so.
+Machine learning has applications in all types of industries, including manufacturing, retail, healthcare and life sciences, travel and hospitality, financial services, and energy, feedstock, and utilities.
